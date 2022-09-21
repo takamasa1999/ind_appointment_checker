@@ -26,10 +26,10 @@ def html_display(html_str):
     webbrowser.open(html_dir)
 
 #fix definition
-line_token = "PYHATH8myKy6o5P8AR7fcxnd4zXf7WUSrc714RiQ2qr"
-page_url = 'https://oap.ind.nl/oap/en/#/doc'
-cd = "C:/Users/tsbea/Desktop"
+cd = "this file location"
 html_dir = cd + '/index.html'
+line_token = "your line token"
+page_url = 'https://oap.ind.nl/oap/en/#/doc'
 
 op = webdriver.ChromeOptions()
 op.add_experimental_option('excludeSwitches', ['enable-logging']) #hidden USB error message
