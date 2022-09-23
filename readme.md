@@ -2,5 +2,5 @@
 
 ---
 
-Practice for web scraping.
+Practice for web scraping.  
 "LINE" is famous communication tool in Japan.
