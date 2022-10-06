@@ -1,4 +1,4 @@
-## IND_appointment_checker
+## ind_appointment_checker
 
 ---
 
