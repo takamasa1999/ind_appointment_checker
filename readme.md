@@ -1,4 +1,4 @@
-## ind_appointment_checker
+## IND appointment checker
 
 ---
 
